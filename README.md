@@ -33,7 +33,8 @@ I prompted an AI-powered literature review tool to find and summarize recent lit
 - **Result:** Successfully added missing dataset for years 2020, 2022, and 2023 after two prompts and removed the ‘Sources’ column for a cleaner dataset table.
 
 #### 2. Visualizations Generated
-<img width="800" height="540" alt="Davao City waste production trend" src="https://github.com/user-attachments/assets/872b1744-6681-44cf-8443-3c20a3709359" />
+<img width="800" height="540" alt="Davao City waste production trend" src="https://github.com/user-attachments/assets/bea2a850-e675-4a7e-92f7-57577e3e1488" />
+
 <img width="800" height="540" alt="Davao City waste production by year" src="https://github.com/user-attachments/assets/e6e3c025-1d7f-4b9b-aaf5-f74905cf3f6c" />
 
 
