@@ -41,3 +41,7 @@ I prompted an AI-powered literature review tool to find and summarize recent lit
 
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
+"The two data charts show that despite the ability of the city to reduce its waste production, as seen in the drop of waste from the years 2017 - 2020, with 202 being the lowest, it does not observe consistency. It implies that after the pandemic years, more people have gone out to establishments, which is why more waste is being produced again. 
+
+The rise in waste production in recent years is alarming, given that 2024 set a new record for the highest waste produced to date. Business establishments and households in Davao City should take action and stay committed to reducing waste and taking recycling seriously so that waste production can drop again."
+
