@@ -33,9 +33,10 @@ I prompted an AI-powered literature review tool to find and summarize recent lit
 - **Result:** Successfully added missing dataset for years 2020, 2022, and 2023 after two prompts and removed the ‘Sources’ column for a cleaner dataset table.
 
 #### 2. Visualizations Generated
-<img width="800" height="540" alt="Davao City waste production by year" src="https://github.com/user-attachments/assets/68896963-ea48-4da3-b035-e665075b747b" />
+<img width="800" height="540" alt="Davao City waste production by year" src="https://github.com/user-attachments/assets/5aa08d34-99de-466f-a7b1-fd9c532d64a0" />
+<img width="800" height="540" alt="Davao City waste production by year (1)" src="https://github.com/user-attachments/assets/c5ed299f-3b6e-4c4a-bc04-a828fa5e5f49" />
 
-<img width="800" height="540" alt="Davao City waste production by year (1)" src="https://github.com/user-attachments/assets/75c4c391-06cd-45af-ac8b-7d7d49f021a2" />
+
 
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
