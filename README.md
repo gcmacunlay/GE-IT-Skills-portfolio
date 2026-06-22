@@ -2,6 +2,29 @@
 ## This is a compilation of all the activities and projects in our IT Skills Elective subject.
 
 
+### The Davao Environmental Action Project Prompt System
+
+
+#### 1. System Prompt Template (V3 - Final Optimized)
+"Act as a Davao local government consultant for environmental issues. You are proposing an action plan to address the current waste-production issue in the city. Create a simplified action plan to address waste production in Davao City. All information must be practical and contextualized in Davao City alone. Output in three easy, actionable steps that the community can do; one on each community level (government, household, and business establishments)."
+
+
+#### 2. Prompt Battle Ledger
+| Version | Prompt Modifier Added | Output Quality Reflection |
+| :--- | :--- | :--- |
+| V1 | "Write an action plan for environmental projects in Davao in the following levels: community, government, and business establishments." | Too broad. Action plans do not include details on how to execute the actions they outline. |
+| V2 | Added specific execution plans for each proposed plan | Better, as it includes more specific details on the projects, but it lacks a practical timeline for the action plan. |
+| V3 | Added a practical timeline for activities to be completed monthly, per the mentioned levels. | Target hit. Simplified, attainable, and contextualized in Davao City. |
+
+
+#### 3. Visual Branding Asset
+- **Engine Used:** Google Gemini / Nano Banana 2
+- **Visual Prompt:** "A flat circular vector logo with Mt. Apo, Philippine Eagle, and recycling symbol in blue and green colors
+<img width="1408" height="768" alt="Gemini_Generated_Image_pvx5bzpvx5bzpvx5" src="https://github.com/user-attachments/assets/20301af4-7ee9-4491-83f8-38bc9178e32c" />
+
+
+
+
 ### Literature Verification Log
 
 
@@ -49,19 +72,4 @@ The rise in waste production in recent years is alarming, given that 2024 set a 
 
 
 
-### The Davao Environmental Action Project Prompt System
 
-
-#### 1. System Prompt Template (V3 - Final Optimized)
-"Act as a Davao local government consultant for environmental issues. You are proposing an action plan to address the current waste-production issue in the city. Create a simplified action plan to address waste production in Davao City. All information must be practical and contextualized in Davao City alone. Output in three easy, actionable steps that the community can do; one on each community level (government, household, and business establishments)."
-
-
-#### 2. Prompt Battle Ledger
-| Version | Prompt Modifier Added | Output Quality Reflection |
-| :--- | :--- | :--- |
-| V1 | "Write an action plan for environmental projects in Davao in the following levels: community, government, and business establishments." | Too broad. Action plans do not include details on how to execute the actions they outline. |
-| V2 | Added specific execution plans for each proposed plan | Better, as it includes more specific details on the projects, but it lacks a practical timeline for the action plan. |
-| V3 | Added a practical timeline for activities to be completed monthly, per the mentioned levels. | Target hit. Simplified, attainable, and contextualized in Davao City. |
-
-
-#### 3. Visual Branding Asset
