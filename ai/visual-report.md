@@ -8,11 +8,13 @@
 - **Result:** Successfully added missing dataset for years 2020, 2022, and 2023 after two prompts and removed the ‘Sources’ column for a cleaner dataset table.
 
 #### 2. Visualizations Generated
-*(Embedded Line Graph showing Davao City Waste Production Trends from 2017-2025)*
-<img width="800" height="540" alt="Davao City waste production trend" src="https://github.com/user-attachments/assets/d2c03324-f4ed-4e64-b8bd-2ce513fc6e3f" />
 
-*(Embedded Bar Chart showing Davao City Yearly Waste Production Comparison from 2017-2025)*
+<img width="800" height="540" alt="Davao City waste production trend" src="https://github.com/user-attachments/assets/d2c03324-f4ed-4e64-b8bd-2ce513fc6e3f" />
+*(Embedded Line Graph showing Davao City Waste Production Trends from 2017-2025)*
+
+
 <img width="800" height="540" alt="Davao City waste production by year" src="https://github.com/user-attachments/assets/e474d722-49af-47ec-b4dd-d9dd0f3d1248" />
+*(Embedded Bar Chart showing Davao City Yearly Waste Production Comparison from 2017-2025)*
 
 
 
