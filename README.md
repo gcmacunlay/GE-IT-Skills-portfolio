@@ -47,7 +47,8 @@ Just like in my previous designs, I sticked to my color palette with a twist of 
 
 ## Media 
 
-<video src="media/video-introduction.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/cf635c41-8ec2-49ed-be23-2ed974a47d23
+
 
 
 #### Self-Introduction Motion Graphic Video
