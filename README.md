@@ -48,7 +48,8 @@ Just like in my previous designs, I sticked to my color palette with a twist of 
 <br><br>
 
 ## Media 
-<video src="media/video-introduction.mp4" controls width="100%"></video>
+
+<video src="media/video-introduction.mp4" width="100%" controls></video>
 
 #### Self-Introduction Motion Graphic Video
 In creating this motion graphics piece, I tried to design it with a fresh perspective. I combined both, following some rules of the Swiss art movement, and some of it is on how I can break those rules to add some twists to my video.
