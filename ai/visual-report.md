@@ -13,7 +13,7 @@
 <br>
 <i> (Line Graph showing Davao City Waste Production Trends from 2017-2025) </i>
 
-<br>
+<br> <br>
 
 <img width="800" height="540" alt="Davao City waste production by year" src="https://github.com/user-attachments/assets/e474d722-49af-47ec-b4dd-d9dd0f3d1248" />
 <br>
